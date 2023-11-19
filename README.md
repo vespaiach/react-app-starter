@@ -14,7 +14,7 @@ This is react-app project starter.
 ## Create a page
 
 ```
-   npm run create-page /Folder/PageName
+   npm run create-page /Folder/PageName # Notes: PageName must be in Pascal case
 ```
 
 This script will create a page component under `pages` folder, a loader under `loaders` folder and an actions under `actions` folder.

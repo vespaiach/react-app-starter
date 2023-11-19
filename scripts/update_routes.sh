@@ -7,7 +7,7 @@
 # _name: file name without extension
 # _ext: file extension
 
-project_root="$HOME/working/jc-com"
+project_root=$(pwd)
 page_root="${project_root}/src/pages"
 loader_root="${project_root}/src/loaders"
 action_root="${project_root}/src/actions"

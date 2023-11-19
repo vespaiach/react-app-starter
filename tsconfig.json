@@ -24,16 +24,10 @@
     "baseUrl": "./",
     "paths": {
       "@assets/*": ["src/assets/*"],
-      "@common/*": ["src/common/*"],
       "@components/*": ["src/components/*"],
-      "@hooks": ["src/hooks"],
-      "@hooks/*": ["src/hooks/*"],
       "@pages/*": ["src/pages/*"],
       "@loaders/*": ["src/loaders/*"],
       "@actions/*": ["src/actions/*"],
-      "@routes": ["src/routes"],
-      "@routes/*": ["src/routes/*"],
-      "@utils/*": ["src/utils/*"],
       "@/*": ["src/*"]
     }
   },

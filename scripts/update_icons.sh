@@ -1,6 +1,6 @@
 #!/bin/bash
 
-project_root="$HOME/working/jc-com"
+project_root=$(pwd)
 icon_file="${project_root}/src/components/Icon.tsx"
 
 function snake_to_pascal() {
